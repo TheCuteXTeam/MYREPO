@@ -64,7 +64,7 @@ def stream_markup_timer(_, chat_id, played, dur):
                 text="Uᴘᴅᴀᴛᴇs 📢", url=f"https://t.me/NeoUpdatess"
             ),
             InlineKeyboardButton(
-                text="Sᴜᴘᴘᴏʀᴛ 💬", url=f"https://t.me/Worldwide_Friends_Group0"
+                text="Sᴜᴘᴘᴏʀᴛ 💬", url=f"https://t.me/best_friends_chatting_grpz0"
           ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -79,7 +79,7 @@ def stream_markup(_, chat_id):
                 text="Uᴘᴅᴀᴛᴇs 📢", url=f"https://t.me/NeoUpdatess"
             ),
             InlineKeyboardButton(
-                text="Sᴜᴘᴘᴏʀᴛ 💬", url=f"https://t.me/Worldwide_Friends_Group0"
+                text="Sᴜᴘᴘᴏʀᴛ 💬", url=f"https://t.me/best_friends_chatting_grpz0"
           ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
